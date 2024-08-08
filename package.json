@@ -75,7 +75,7 @@
     "typescript": "^4.0.3"
   },
   "peerDependencies": {
-    "objection": ">=2.0.0 <=3.0.0"
+    "objection": "^2.0.0 || ^3.0.0"
   },
   "engines": {
     "node": ">=8"
